@@ -34,7 +34,7 @@ los dispositivos móviles.
 **Grey o Gray Hat**: hackers que usan sus conocimientos para detectar fallos de
 seguridad y los reparan en base a una cuantía económica.
 
-**Hujacking**: secuestro de información.
+**Hijacking**: secuestro de información.
 
 **Keylogger**: aplicación que captura todas las pulsaciones del teclado, enviando
 posteriormente dicha información al atacante.
